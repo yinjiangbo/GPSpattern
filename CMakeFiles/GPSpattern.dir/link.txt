@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -ggdb -O0 -Wfatal-errors --std=c++11    CMakeFiles/GPSpattern.dir/test.cpp.o CMakeFiles/GPSpattern.dir/gps_pattern.cpp.o  -o GPSpattern -rdynamic 

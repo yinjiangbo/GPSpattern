@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1413856759 source:/home/yjb/Desktop/GPSpattern/gps_pattern.cpp
+	<functional>
+	<limits>
+	<map>
+	<iostream>
+	<vector>
+	<stdio.h>
+	<string.h>
+	"gps_pattern.hpp"
+
+1413856401 /home/yjb/Desktop/GPSpattern/gps_pattern.hpp
+	<time.h>
+	<vector>
+	<iostream>
+	<queue>
+
+1413856375 source:/home/yjb/Desktop/GPSpattern/Parseroutes.cpp
+	<functional>
+	<limits>
+	<map>
+	<iostream>
+	<vector>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"Parseroutes.hpp"
+
+1413854921 /home/yjb/Desktop/GPSpattern/Parseroutes.hpp
+	<vector>
+	<iostream>
+	<queue>
+
